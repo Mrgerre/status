@@ -1,0 +1,33 @@
+owner: Mrgerre
+repo: status
+
+sites:
+  - name: Logistics Platform
+    url: https://logistics.tjenaremannen.se
+  - name: API Health
+    url: https://logistics.tjenaremannen.se/api/health
+
+status-website:
+  name: Tjenare Logistics Status
+  theme: dark
+  introTitle: "Systemstatus"
+  introMessage: "Aktuell status och drifthistorik för Tjenare Logistics."
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  uptime: "*/5 * * * *"
+
+i18n:
+  activeIncidents: "Aktiva incidenter"
+  allSystemsOperational: "Alla system fungerar normalt"
+  incidentReport: "Incidentrapport"
+  activeIncidentSummary: "$NUMBER aktiva incidenter"
+  incidentTitle: "Detaljer för incident $NUMBER"
+  pastIncidents: "Tidigare incidenter"
+  pastIncidentsSummary: "$NUMBER tidigare incidenter"
+
+user:
+  mail: alfred@gerre.se
