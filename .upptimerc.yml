@@ -8,6 +8,7 @@ sites:
     url: https://logistics.tjenaremannen.se/api/health
 
 status-website:
+  baseUrl: /status
   name: Tjenare Logistics Status
   theme: dark
   introTitle: "Systemstatus"
