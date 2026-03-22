@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Logistics Platform",
+    "url": "https://logistics.tjenaremannen.se",
+    "icon": "https://icons.duckduckgo.com/ip3/logistics.tjenaremannen.se.ico",
+    "slug": "logistics-platform",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 519,
+    "timeDay": 519,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "API Health",
+    "url": "https://logistics.tjenaremannen.se/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/logistics.tjenaremannen.se.ico",
+    "slug": "api-health",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
+    "dailyMinutesDown": {}
+  }
+]
